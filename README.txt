@@ -2,7 +2,7 @@ README
 
 Animoog + QuNeo gbControl version 0.1 (hackity hack hack)
 
-Please distribute. Please improve. Credit if you feel the whim. Above all, distribute and improve on this template. It took me longer to write up the bare-bones documentation than it did to sketch out and CC-map the idea to begin with.
+Please distribute. Please improve. Credit me if you fork and/or distribute. Above all, distribute and improve on this template. It took me longer to write up the bare-bones documentation than it did to sketch out and CC-map the idea to begin with.
 
 To use the mod wheel control (pad pressure) you may need to remap that in each preset that uses poly-pressure instead, or have fun and assign it independently.
 
