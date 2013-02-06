@@ -1,6 +1,6 @@
 # README
 
-**Animoog + QuNeo gbControl version 0.1** (hackity hack hack)
+**[Animoog](http://www.moogmusic.com/products/apps/animoog-0) + [QuNeo](http://www.keithmcmillen.com/QuNeo/overview) gbControl version 0.1** (hackity hack hack)
 
 Please distribute. Please improve. Credit me if you fork and/or distribute. Above all, distribute and improve on this template. It took me longer to write up the bare-bones documentation than it did to sketch out and CC-map the idea to begin with.
 
