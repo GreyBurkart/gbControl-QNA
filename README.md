@@ -6,7 +6,7 @@ Please distribute. Please improve. Credit me if you fork and/or distribute. Abov
 
 To use the mod wheel control (pad pressure) you may need to remap that in each preset that uses poly-pressure instead, or have fun and assign it independently.
 
-In the XY version, assign one axis, both, or none as you wish. This affects all pads, it's the same CCs applied to each pad's X/Y detection. Pressure is still mod wheel, so that means each pad can send Note, Velocity, Pressure, X, Y. Have fun with that and any X/Y CC clashes you may run into. Works great
+In the XY version, assign one axis, both, or none as you wish. This affects all pads, it's the same CCs applied to each pad's X/Y detection. Pressure is still mod wheel, so that means each pad can send Note, Velocity, Pressure, X, Y. Have fun with that and any X/Y CC clashes you may run into. Works great.
 
 QuNeo Editor v1.2 was used, be sure to update your firmware safely.
 
