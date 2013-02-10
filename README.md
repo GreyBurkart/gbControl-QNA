@@ -21,10 +21,10 @@ Thanks – gb
 
 ---
 
-![](QNA-gbControl_Bank1.png)
+![](gbControl-QNA_Bank1.png)
 
-![](QNA-gbControl_Bank2.png)
+![](gbControl-QNA_Bank2.png)
 
-![](QNA-gbControl_Bank3.png)
+![](gbControl-QNA_Bank3.png)
 
-![](QNA-gbControl_Bank4.png)
+![](gbControl-QNA_Bank4.png)
